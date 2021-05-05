@@ -3,11 +3,16 @@
 My name is Ricardo, i'm from venezuela and I'm a full-stack developer :muscle: <br>
 <br>
 ### Skills 
-<br>
-* Using Node.js, Express, Mongodb, Ejs, HTML5, CSS3 since 2019.
-* Git, webpack, Kanba, Conventional Commits, Conventional Versioning, Docker, to create a funcional workspace.
+<br> 
+* Using Node.js, Express, Mongodb, Ejs, HTML5, CSS3 since 2019. <br>
+* Git, webpack, Kanba, Conventional Commits, Conventional Versioning, Docker, to create a funcional workspace. <br>
 * Critical thinking, decision-making and problem solving skills. <br>
-* Some Sass, PHP,Mysql coding.
+* Some Sass, PHP,Mysql coding. <br>
+
+### Contact
+
+- facebook https://www.facebook.com/ricardo.torrellas.9 <br>
+- github https://github.com/Rick-torrellas <br>
  <!--
 **Rick-torrellas/Rick-torrellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
