@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ricardo, i'm from venezuela and I'm a full-stack developer :muscle: <br>
+My name is Ricardo, i'm from venezuela and i'm a Full-Stack Web Developer :muscle: <br>
 
 ### Skills
 
