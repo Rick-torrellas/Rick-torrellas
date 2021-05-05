@@ -1,9 +1,9 @@
 ### Hi there 👋
-<br>
+
 My name is Ricardo, i'm from venezuela and I'm a full-stack developer :muscle: <br>
-<br>
+
 ### Skills
-<br> 
+
 * Using Node.js, Express, Mongodb, Ejs, HTML5, CSS3 since 2019. <br>
 * Git, webpack, Kanba, Conventional Commits, Conventional Versioning, Docker, to create a funcional workspace. <br>
 * Critical thinking, decision-making and problem solving skills. <br>
