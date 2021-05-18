@@ -10,9 +10,6 @@ My name is Ricardo, i'm from venezuela and i'm a Full-Stack Web Developer :muscl
 * Some Sass, PHP,Mysql coding. <br>
 
 ### Contact
-
-- facebook https://www.facebook.com/ricardo.torrellas.9 <br>
-- github https://github.com/Rick-torrellas <br>
  <!--
 **Rick-torrellas/Rick-torrellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
