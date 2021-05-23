@@ -14,6 +14,7 @@ My name is Ricardo, i'm from venezuela and i'm a Full-Stack Web Developer :muscl
 * [Workana](https://www.workana.com/freelancer/79ac9d0fba0845014a434a42a9beeef8)
 * [Workana Days Digital](https://www.workana.com/freelancer/7135c29af1e3d527da610b728004cef1)  
 * [Fiver](https://es.fiverr.com/users/rickphi/seller_dashboard)  
+* [Reddit](https://www.reddit.com/user/Ricardo-thorr)
 
 ### Suport
 
