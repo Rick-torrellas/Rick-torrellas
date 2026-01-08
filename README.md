@@ -1,11 +1,11 @@
 # ¡Hola! Soy Rick 👋
 
-### 🚀 Desarrollador Full Stack Enfocado en Soluciones Freelance
+### Desarrollador Full Stack Enfocado en Soluciones Freelance
 Me especializo en construir aplicaciones web robustas y automatizaciones que ahorran tiempo y dinero a los negocios.
 
 ---
 
-### 🛠️ Mi Caja de Herramientas
+### Mi Caja de Herramientas
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
