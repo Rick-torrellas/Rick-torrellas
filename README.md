@@ -32,6 +32,14 @@ I build robust, scalable web applications and automation tools that solve real-w
 
 ---
 
+### 📩 Let's Talk!
+Have a project in mind? I'm currently available for freelance work.
+* **Email:** [your.email@example.com]
+* **LinkedIn:** [https://www.linkedin.com/in/rick-torrellas-2ab1ba1ab/]
+* **Portfolio:** [yourwebsite.com]
+
+---
+
 ### 🤝 My Freelance Workflow
 I believe in transparency and efficiency. Here is how I work:
 
@@ -48,11 +56,5 @@ I believe in transparency and efficiency. Here is how I work:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ---
-
-### 📩 Let's Talk!
-Have a project in mind? I'm currently available for freelance work.
-* **Email:** [your.email@example.com]
-* **LinkedIn:** [https://www.linkedin.com/in/rick-torrellas-2ab1ba1ab/]
-* **Portfolio:** [yourwebsite.com]
 
 *"The best way to predict the future is to code it."*
