@@ -1,35 +1,29 @@
-### Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-My name is Ricardo, i'm from venezuela and i'm a Full-Stack Web Developer :muscle:  
+### 🚀 Desarrollador Full Stack Enfocado en Soluciones Freelance
+Me especializo en construir aplicaciones web robustas y automatizaciones que ahorran tiempo y dinero a los negocios.
 
-### Skills
+---
 
-* Using Node.js, Express, Mongodb, Ejs, HTML5, CSS3 since 2019. 
-* Git, webpack, Kanba, Conventional Commits, Conventional Versioning, Docker, to create a funcional workspace. 
-* Critical thinking, decision-making and problem solving skills. 
-* Some Sass, PHP,Mysql coding. <br>
+### 🛠️ Mi Caja de Herramientas
+**Frontend:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Contact
+**Backend & Scripting:**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-* [Workana](https://www.workana.com/freelancer/79ac9d0fba0845014a434a42a9beeef8)
-* [Workana Days Digital](https://www.workana.com/freelancer/7135c29af1e3d527da610b728004cef1)  
-* [Fiver](https://es.fiverr.com/users/rickphi/seller_dashboard)  
-* [Reddit](https://www.reddit.com/user/Ricardo-thorr)
+---
 
-### Suport
+### 📂 Proyectos Destacados (Freelance Focus)
+* **[Nombre del Proyecto]**: Sistema de gestión de inventarios (Node.js/TS). *Resolvió un problema de stock para una tienda local.*
+* **[Nombre del Proyecto]**: Bot de automatización de leads (Python). *Aumentó la conversión en un 20%.*
 
-* [Patreon](https://www.patreon.com/ricardo_torrellas)
- <!--
-**Rick-torrellas/Rick-torrellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estadísticas de GitHub
+![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
