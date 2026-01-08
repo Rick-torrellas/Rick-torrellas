@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Rick 👋
 
 ### 🚀 Desarrollador Full Stack Enfocado en Soluciones Freelance
 Me especializo en construir aplicaciones web robustas y automatizaciones que ahorran tiempo y dinero a los negocios.
@@ -26,4 +26,4 @@ Me especializo en construir aplicaciones web robustas y automatizaciones que aho
 ---
 
 ### 📊 Estadísticas de GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=Rick-torrellas&show_icons=true&theme=radical)
