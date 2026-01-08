@@ -52,8 +52,10 @@ I believe in transparency and efficiency. Here is how I work:
 ---
 
 ### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Rick-torrellas&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Rick's Stats](https://github-readme-stats.vercel.app/api?username=Rick-torrellas&show_icons=true&theme=radical) 
+![Rick's GitHub Summary](https://stats.justany.workers.dev/api?username=Rick-torrellas&theme=radical&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-torrellas&layout=compact&theme=radical)
 
 ---
 
