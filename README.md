@@ -26,9 +26,9 @@ I build robust, scalable web applications and automation tools that solve real-w
 
 ---
 
-### 📂 Proyectos Destacados (Freelance Focus)
-* **[Nombre del Proyecto]**: Sistema de gestión de inventarios (Node.js/TS). *Resolvió un problema de stock para una tienda local.*
-* **[Nombre del Proyecto]**: Bot de automatización de leads (Python). *Aumentó la conversión en un 20%.*
+### 📂 Featured Projects
+* **[Project Name]** - A brief description of what it does. (e.g., *Automated inventory system built with Node.js and TypeScript*).
+* **[Project Name]** - (e.g., *Python-based web scraper that improved data collection speed by 40%*).
 
 ---
 
