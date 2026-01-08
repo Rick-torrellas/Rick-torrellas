@@ -1,7 +1,9 @@
 # Hi there! I'm Rick 👋
 
-### 🚀 Full Stack Developer & Linux/DevOps Enthusiast
-I build robust, scalable web applications and automation tools that solve real-world business problems. I don't just write code; I deliver complete, production-ready solutions.
+### 🚀 Platform-Agnostic Software Engineer | Modular Systems & AI Integration
+Developing Core-Centric Software & Advanced Automation. I build cross-platform logic for Web, CLI, and AI-integrated systems, delivering high-performance tools that solve complex problems.
+
+*"My philosophy: Logic first, Interface second. I build the engine once, and deploy it wherever it's needed."*
 
 ---
 
@@ -50,6 +52,8 @@ I believe in transparency and efficiency. Here is how I work:
 5.  **Support:** Providing post-launch maintenance to ensure everything runs smoothly.
 
 ---
+
+
 
 ### 📊 GitHub Stats
 ![Rick's Stats](https://github-readme-stats.vercel.app/api?username=Rick-torrellas&show_icons=true&theme=radical) 
