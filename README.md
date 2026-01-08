@@ -1,21 +1,28 @@
-# ¡Hola! Soy Rick 👋
+# Hi there! I'm Rick 👋
 
-### Desarrollador Full Stack Enfocado en Soluciones Freelance
-Me especializo en construir aplicaciones web robustas y automatizaciones que ahorran tiempo y dinero a los negocios.
+### 🚀 Full Stack Developer & Linux/DevOps Enthusiast
+I build robust, scalable web applications and automation tools that solve real-world business problems. I don't just write code; I deliver complete, production-ready solutions.
 
 ---
 
-### Mi Caja de Herramientas
+### 🛠️ My Tech Stack
+
 **Frontend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & Scripting:**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**DevOps & Infrastructure:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+*(Arch, Ubuntu, Debian)*
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
@@ -25,5 +32,27 @@ Me especializo en construir aplicaciones web robustas y automatizaciones que aho
 
 ---
 
-### 📊 Estadísticas de GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=Rick-torrellas&show_icons=true&theme=radical)
+### 🤝 My Freelance Workflow
+I believe in transparency and efficiency. Here is how I work:
+
+1.  **Analysis:** Understanding your business needs and defining the project scope.
+2.  **Development:** Writing clean, documented, and maintainable code.
+3.  **DevOps & CI/CD:** Setting up automated testing and deployment pipelines.
+4.  **Deployment:** Launching your application on professional servers (AWS, DigitalOcean, etc.).
+5.  **Support:** Providing post-launch maintenance to ensure everything runs smoothly.
+
+---
+
+### 📊 GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Rick-torrellas&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+### 📩 Let's Talk!
+Have a project in mind? I'm currently available for freelance work.
+* **Email:** [your.email@example.com]
+* **LinkedIn:** [linkedin.com/in/yourprofile]
+* **Portfolio:** [yourwebsite.com]
+
+*"The best way to predict the future is to code it."*
