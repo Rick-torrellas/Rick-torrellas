@@ -52,7 +52,7 @@ I believe in transparency and efficiency. Here is how I work:
 ### 📩 Let's Talk!
 Have a project in mind? I'm currently available for freelance work.
 * **Email:** [your.email@example.com]
-* **LinkedIn:** [linkedin.com/in/yourprofile]
+* **LinkedIn:** [https://www.linkedin.com/in/rick-torrellas-2ab1ba1ab/]
 * **Portfolio:** [yourwebsite.com]
 
 *"The best way to predict the future is to code it."*
