@@ -1,6 +1,5 @@
 # Hi there! I'm Rick 👋
 
-### 🚀 Platform-Agnostic Software Engineer | Modular Systems & AI Integration
 Developing Core-Centric Software & Advanced Automation. I build cross-platform logic for Web, CLI, and AI-integrated systems, delivering high-performance tools that solve complex problems.
 
 *"My philosophy: Logic first, Interface second. I build the engine once, and deploy it wherever it's needed."*
