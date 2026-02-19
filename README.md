@@ -28,7 +28,7 @@ Developing Core-Centric Software & Advanced Automation. I build cross-platform l
 ---
 
 ### 📂 Featured Projects
-* **[Project Name]** - A brief description of what it does. (e.g., *Automated inventory system built with Node.js and TypeScript*).
+* **StatusQ** - monitors and responds to various components of a PC and its operating system. It tracks system performance, resource usage, hardware status, and logs essential activities. The monitoring features enable real-time analysis and notifications for system events.
 * **[Project Name]** - (e.g., *Python-based web scraper that improved data collection speed by 40%*).
 
 ---
