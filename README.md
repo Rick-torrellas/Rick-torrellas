@@ -1,9 +1,5 @@
 # Hi there! I'm Rick 👋
 
-Developing Core-Centric Software & Advanced Automation. I build cross-platform logic for Web, CLI, and AI-integrated systems, delivering high-performance tools that solve complex problems.
-
-*"My philosophy: Logic first, Interface second. I build the engine once, and deploy it wherever it's needed."*
-
 ---
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,14 +23,3 @@ Have a project in mind? I'm currently available for freelance work.
 * **Email:** [your.email@example.com]
 * **LinkedIn:** [https://www.linkedin.com/in/rick-torrellas-2ab1ba1ab/]
 * **Portfolio:** [yourwebsite.com]
-
----
-
-### 🤝 My Freelance Workflow
-I believe in transparency and efficiency. Here is how I work:
-
-1.  **Analysis:** Understanding your business needs and defining the project scope.
-2.  **Development:** Writing clean, documented, and maintainable code.
-3.  **DevOps & CI/CD:** Setting up automated testing and deployment pipelines.
-4.  **Deployment:** Launching your application on professional servers (AWS, DigitalOcean, etc.).
-5.  **Support:** Providing post-launch maintenance to ensure everything runs smoothly.
