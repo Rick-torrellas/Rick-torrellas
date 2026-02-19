@@ -38,17 +38,3 @@ I believe in transparency and efficiency. Here is how I work:
 3.  **DevOps & CI/CD:** Setting up automated testing and deployment pipelines.
 4.  **Deployment:** Launching your application on professional servers (AWS, DigitalOcean, etc.).
 5.  **Support:** Providing post-launch maintenance to ensure everything runs smoothly.
-
----
-
-
-
-### 📊 GitHub Stats
-![Rick's Stats](https://github-readme-stats.vercel.app/api?username=Rick-torrellas&show_icons=true&theme=radical) 
-![Rick's GitHub Summary](https://stats.justany.workers.dev/api?username=Rick-torrellas&theme=radical&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-torrellas&layout=compact&theme=radical)
-
----
-
-*"The best way to predict the future is to code it."*
