@@ -12,14 +12,13 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Projects
 * **StatusQ** - monitors and responds to various components of a PC and its operating system. It tracks system performance, resource usage, hardware status, and logs essential activities. The monitoring features enable real-time analysis and notifications for system events.
 * **[Project Name]** - (e.g., *Python-based web scraper that improved data collection speed by 40%*).
 
 ---
 
 ### 📩 Let's Talk!
-Have a project in mind? I'm currently available for freelance work.
 * **Email:** [your.email@example.com]
-* **LinkedIn:** [https://www.linkedin.com/in/rick-torrellas-2ab1ba1ab/]
-* **Portfolio:** [yourwebsite.com]
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rick-torrellas-2ab1ba1ab/)
+* [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/2KEQBgQ)
