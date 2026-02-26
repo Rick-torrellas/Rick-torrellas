@@ -21,6 +21,13 @@
 * [examples](https://github.com/Rick-torrellas/examples) - A collection of curated code snippets and examples showcasing various programming languages and techniques. Ideal for developers seeking quick references and inspirations for their projects.
 * [model-vault](https://github.com/Rick-torrellas/model-vault) - A collection of shared configurations for AI models, including hyperparameters and architecture settings, to enhance development and deployment.
 
+---
+
+### 📦 Packages
+
+* [core-log-engine](https://github.com/Rick-torrellas/core-log-engine) -
+* [core-cpu-monitor](https://github.com/Rick-torrellas/core-cpu-monitor) - 
+
 
 
 ---
