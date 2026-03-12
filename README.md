@@ -16,7 +16,6 @@
 ### 📂 Projects
 * 🖥️ **StatusQ** - monitors and responds to various components of a PC and its operating system. It tracks system performance, resource usage, hardware status, and logs essential activities. The monitoring features enable real-time analysis and notifications for system events.
 
-* 🧩 [capsule-components](https://github.com/Rick-torrellas/capsule-component) -
 * 🎛️ [StatusQ.cpu](https://github.com/Rick-torrellas/StatusQ.cpu) - 
 
 * 🧪 [examples](https://github.com/Rick-torrellas/examples) - A collection of curated code snippets and examples showcasing various programming languages and techniques. Ideal for developers seeking quick references and inspirations for their projects.
