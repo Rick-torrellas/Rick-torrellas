@@ -25,7 +25,7 @@
 
 ### 📦 Packages
 
-* 📜 [core-log-engine](https://github.com/Rick-torrellas/core-log-engine) - Implementation of the port-adapter pattern for logging in Python. Defines an abstract Logger interface.
+* 📜 [CapsuleCore_logger](https://github.com/Rick-torrellas/CapsuleCore_logger) - Implementation of the port-adapter pattern for logging in Python. Defines an abstract Logger interface.
 * 🎛️ [core-cpu-monitor](https://github.com/Rick-torrellas/core-cpu-monitor) - 
 
 
