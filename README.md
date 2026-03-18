@@ -17,9 +17,6 @@
 
 * 🎛️ [StatusQ.cpu](https://github.com/Rick-torrellas/StatusQ.cpu) - 
 
-* 🧪 [examples](https://github.com/Rick-torrellas/examples) - A collection of curated code snippets and examples showcasing various programming languages and techniques. Ideal for developers seeking quick references and inspirations for their projects.
-* 🧠 [model-vault](https://github.com/Rick-torrellas/model-vault) - A collection of shared configurations for AI models, including hyperparameters and architecture settings, to enhance development and deployment.
-
 ---
 
 ### 📦 Packages
@@ -29,6 +26,10 @@
 * 🎛️ [CapsuleCore-StatusQ-cpu](https://github.com/Rick-torrellas/CapsuleCore-StatusQ-cpu)
 
 
+---
+
+* 🧪 [examples](https://github.com/Rick-torrellas/examples) - A collection of curated code snippets and examples showcasing various programming languages and techniques. Ideal for developers seeking quick references and inspirations for their projects.
+* 🧠 [model-vault](https://github.com/Rick-torrellas/model-vault) - A collection of shared configurations for AI models, including hyperparameters and architecture settings, to enhance development and deployment.
 
 ---
 
