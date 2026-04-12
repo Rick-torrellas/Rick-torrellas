@@ -22,8 +22,8 @@
 ### 📦 Packages
 
 * 📜 [CapsuleCore_logger](https://github.com/Rick-torrellas/CapsuleCore-logger) - Implementation of the port-adapter pattern for logging in Python. Defines an abstract Logger interface.
-* [CapsuleCore_shellback](https://github.com/Rick-torrellas/CapsuleCore_shellback) - is a robust, architecturally-agnostic Python library designed to bridge terminal environments (Bash, CMD, PowerShell) with Python scripts.
-* [CapsuleCore-book](https://github.com/Rick-torrellas/CapsuleCore_book) - 
+* ⚙️ [CapsuleCore_shellback](https://github.com/Rick-torrellas/CapsuleCore_shellback) - is a robust, architecturally-agnostic Python library designed to bridge terminal environments (Bash, CMD, PowerShell) with Python scripts.
+* 📘 [CapsuleCore-book](https://github.com/Rick-torrellas/CapsuleCore_book) - 
 * 🎛️ [CapsuleCore-StatusQ-cpu](https://github.com/Rick-torrellas/CapsuleCore-StatusQ-cpu)
 
 
