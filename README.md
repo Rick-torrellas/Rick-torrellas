@@ -23,7 +23,7 @@
 
 * 📜 [CapsuleCore_logger](https://github.com/Rick-torrellas/CapsuleCore-logger) - Implementation of the port-adapter pattern for logging in Python. Defines an abstract Logger interface.
 * ⚙️ [cc-shellback-kit](https://github.com/Rick-torrellas/cc-shellback-kit) - is a robust, architecturally-agnostic Python library designed to bridge terminal environments (Bash, CMD, PowerShell) with Python scripts.
-* 📘 [CapsuleCore-book](https://github.com/Rick-torrellas/CapsuleCore_book) - 
+* 📘 [cc-book-kit](https://github.com/Rick-torrellas/cc-book-kit) - 
 * 🎛️ [CapsuleCore-StatusQ-cpu](https://github.com/Rick-torrellas/CapsuleCore-StatusQ-cpu)
 
 
