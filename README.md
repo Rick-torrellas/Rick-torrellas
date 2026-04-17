@@ -21,7 +21,7 @@
 
 ### 📂 Projects
 
-* 🎛️ [StatusQ.cpu](https://github.com/Rick-torrellas/StatusQ.cpu) - 
+* 🎛️ [cc.StatusQ](https://github.com/Rick-torrellas/cc.StatusQ) - 
 
 
 ### 📦 Packages
