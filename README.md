@@ -23,7 +23,6 @@
 
 * 🎛️ [StatusQ.cpu](https://github.com/Rick-torrellas/StatusQ.cpu) - 
 
----
 
 ### 📦 Packages
 
@@ -31,7 +30,6 @@
 * ⚙️ [cc-shellback-kit](https://github.com/Rick-torrellas/cc-shellback-kit) - allows developers to run shell commands within Python scripts more efficiently while ensuring the code remains portable and easy to maintain.
 * 📘 [cc-book-kit](https://github.com/Rick-torrellas/cc-book-kit) - is a high-performance Python library for managing structured knowledge using a graph-based model. It organizes information into atomic units called Entries and lets developers switch between storage backends (JSON, binary, or databases) without changing application code.
 * 🎛️ [CapsuleCore-StatusQ-cpu](https://github.com/Rick-torrellas/CapsuleCore-StatusQ-cpu)
-
 
 ---
 
