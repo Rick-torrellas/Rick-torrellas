@@ -44,7 +44,9 @@
 
 ---
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-torrellas&layout=donut-vertical" alt="Estadísticas de Lenguajes de Rick" />
+</p>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
