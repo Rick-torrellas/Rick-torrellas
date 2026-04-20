@@ -44,7 +44,6 @@
 
 * 🎛️ [cc.StatusQ](https://github.com/Rick-torrellas/cc.StatusQ) - 
 
-
 ### 📦 Packages
 
 * 📜 [cc.logger-kit](https://github.com/Rick-torrellas/cc.logger-kit) - Implementation of the port-adapter pattern for logging in Python. Defines an abstract Logger interface.
