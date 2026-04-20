@@ -1,9 +1,9 @@
 # Hi there! I'm Rick 👋
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Architect+%7C+Building+Scalable+Systems;Turning+Complex+Problems+into+Simple+Systems;Decoupled+Systems+%7C+Core-Centric+Design" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Architect+%7C+Building+Scalable+Systems;Turning+Complex+Problems+into+Simple+Systems;Decoupled+Systems+%7C+Core-Centric+Design" alt="Typing SVG" />
+</a>
 </p>
 
 <table border="0" width="100%">
