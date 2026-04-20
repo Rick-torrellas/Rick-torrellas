@@ -8,7 +8,7 @@
 
 <div align="left">
   <div style="display: inline-block;">
-    <h3>Contact Me</h3>
+    <h3>Let's Talk</h3>
     <a href="https://www.linkedin.com/in/rick-torrellas-2ab1ba1ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
     <a href="https://www.fiverr.com/s/2KEQBgQ" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a><br>
     <a href="https://wa.me/584149081828" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a><br>
