@@ -9,14 +9,14 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="left" valign="top">
-      <h3>Contact Me</h3>
+      <b>Contact Me</b>
       <a href="https://www.linkedin.com/in/rick-torrellas-2ab1ba1ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br>
       <a href="https://www.fiverr.com/s/2KEQBgQ" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a><br>
       <a href="https://wa.me/584149081828" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a><br>
       <a href="mailto:ricardo.torrejas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     </td>
     <td width="50%" align="right" valign="top">
-      <h3>Tech Stack</h3>
+      <b>Tech Stack</b>
       <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /><br>
