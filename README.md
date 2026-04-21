@@ -37,9 +37,12 @@
 <table>
   <tr>
       <td>
-        <h3>StatusQ</h3>  
+        <h3>📡 StatusQ</h3>  
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur eius, 
+          A plug-and-play monitoring framework for real-time system and component visibility. Highly configurable architecture that scales from single-component deep dives to full-stack infrastructure overviews.
+        </p>
+        <p>
+        <a href="https://github.com/Rick-torrellas/cc.StatusQ-cpu">cc.StatusQ</a>
         </p>
         <a href="https://github.com/Rick-torrellas/cc.StatusQ-cpu">📦 cc.StatusQ-cpu</a>
       </td>
@@ -55,8 +58,6 @@
       </td>
     </tr>
     <tr>
-      <td>TypeScript</td>
-      <td>Interfaz Modular</td>
     </tr>
 </table>
 
