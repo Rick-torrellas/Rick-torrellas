@@ -57,7 +57,6 @@
     <tr>
       <td>TypeScript</td>
       <td>Interfaz Modular</td>
-      <td>🛠️ En desarrollo</td>
     </tr>
 </table>
 
