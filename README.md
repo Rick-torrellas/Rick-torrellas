@@ -37,7 +37,8 @@
 <table>
   <tr>
       <td>
-        <h3 align="center" >📡 StatusQ</h3>  
+        <h3 align="center" >📡 StatusQ</h3>
+        ---
         <p>A plug-and-play monitoring framework for real-time system and component visibility. Highly configurable architecture that scales from single-component deep dives to full-stack infrastructure overviews.</p>
         <p><a href="https://github.com/Rick-torrellas/cc.StatusQ-cpu">💿 cc.StatusQ</a></p>
         <a href="https://github.com/Rick-torrellas/cc.StatusQ-cpu">📦 cc.StatusQ-cpu</a>
