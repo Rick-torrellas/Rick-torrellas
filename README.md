@@ -43,6 +43,16 @@
         </p>
         <a href="https://github.com/Rick-torrellas/cc.StatusQ-cpu">📦 cc.StatusQ-cpu</a>
       </td>
+      <td>
+        <h3>
+          shellback
+        </h3>
+        <p>
+          allows developers to run shell commands within Python scripts more efficiently while ensuring the code remains portable and easy to maintain.
+        </p>
+        <a href="https://github.com/Rick-torrellas/cc.shellback-kit">📦 cc.shellback-kit</a>
+        </p>
+      </td>
     </tr>
     <tr>
       <td>TypeScript</td>
