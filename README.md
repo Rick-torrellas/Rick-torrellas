@@ -30,7 +30,7 @@
 
 <br clear="all" />
 
----
+![Separador](https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=footer)
 
 <h2 align="center" >📂 Projects</h2>
 
@@ -62,18 +62,15 @@
     </tr>
 </table>
 
----
-
 * 🧪 [examples](https://github.com/Rick-torrellas/examples) - A collection of curated code snippets and examples showcasing various programming languages and techniques. Ideal for developers seeking quick references and inspirations for their projects.
 * 🧠 [model-vault](https://github.com/Rick-torrellas/model-vault) - A collection of shared configurations for AI models, including hyperparameters and architecture settings, to enhance development and deployment.
 
----
+![Separador](https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=footer)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-torrellas&layout=donut-vertical&theme=tokyonight" alt="Estadísticas de Lenguajes de Rick" />
 </p>
 
-![Separador](https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=footer)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
