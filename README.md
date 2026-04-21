@@ -32,7 +32,22 @@
 
 ---
 
-### 📂 Projects
+<h2 align="center" >📂 Projects</h2>
+
+<table>
+  <tr>
+      <td>
+        <h3>StatusQ</h3>  
+      </td>
+      <td>Lógica del Core</td>
+      <td>✅ Estable</td>
+    </tr>
+    <tr>
+      <td>TypeScript</td>
+      <td>Interfaz Modular</td>
+      <td>🛠️ En desarrollo</td>
+    </tr>
+</table>
 
 * 🎛️ [cc.StatusQ](https://github.com/Rick-torrellas/cc.StatusQ) - 
 
