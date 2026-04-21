@@ -49,6 +49,16 @@
       </td>
     </tr>
     <tr>
+      <td>
+        <h3>📜 logger</h3>
+        <p>Implementation of the port-adapter pattern for logging in Python. Defines an abstract Logger interface.</p>
+        <a href="https://github.com/Rick-torrellas/cc.logger-kit">📦 cc.logger-kit</a>
+      </td>
+      <td>
+        <h3>📘 book</h3>
+        <p>is a high-performance Python library for managing structured knowledge using a graph-based model. It organizes information into atomic units called Entries and lets developers switch between storage backends (JSON, binary, or databases) without changing application code.</p>
+        <a href="https://github.com/Rick-torrellas/cc.book-kit">📦 cc.book-kit</a>
+      </td>
     </tr>
 </table>
 
