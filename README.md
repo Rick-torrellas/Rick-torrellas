@@ -38,7 +38,7 @@
   <tr>
       <td>
         <h3 align="center" >📡 StatusQ</h3>
-        ---
+        <br>
         <p>A plug-and-play monitoring framework for real-time system and component visibility. Highly configurable architecture that scales from single-component deep dives to full-stack infrastructure overviews.</p>
         <p><a href="https://github.com/Rick-torrellas/cc.StatusQ-cpu">💿 cc.StatusQ</a></p>
         <a href="https://github.com/Rick-torrellas/cc.StatusQ-cpu">📦 cc.StatusQ-cpu</a>
@@ -51,12 +51,12 @@
     </tr>
     <tr>
       <td>
-        <h3>📜 logger</h3>
+        <h3 align="center" >📜 logger</h3>
         <p>Implementation of the port-adapter pattern for logging in Python. Defines an abstract Logger interface.</p>
         <a href="https://github.com/Rick-torrellas/cc.logger-kit">📦 cc.logger-kit</a>
       </td>
       <td>
-        <h3>📘 book</h3>
+        <h3 align="center" >📘 book</h3>
         <p>is a high-performance Python library for managing structured knowledge using a graph-based model. It organizes information into atomic units called Entries and lets developers switch between storage backends (JSON, binary, or databases) without changing application code.</p>
         <a href="https://github.com/Rick-torrellas/cc.book-kit">📦 cc.book-kit</a>
       </td>
