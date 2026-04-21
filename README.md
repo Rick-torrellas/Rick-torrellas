@@ -71,6 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-torrellas&layout=donut-vertical&theme=tokyonight" alt="Estadísticas de Lenguajes de Rick" />
 </p>
 
+![Estadísticas de Rick](https://github-readme-stats.vercel.app/api?username=Rick-torrellas&show_icons=true&theme=radical)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
