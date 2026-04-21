@@ -38,9 +38,11 @@
   <tr>
       <td>
         <h3>StatusQ</h3>  
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur eius, 
+        </p>
+        <a href="https://github.com/Rick-torrellas/cc.StatusQ-cpu">📦 cc.StatusQ-cpu</a>
       </td>
-      <td>Lógica del Core</td>
-      <td>✅ Estable</td>
     </tr>
     <tr>
       <td>TypeScript</td>
